@@ -4,7 +4,7 @@
   "description": "a spec for organizing and re-using tool, feature, and application code",
   "main": "index.js",
   "dependencies": {
-    "debug": "^2.2.0"
+    "debug": "*"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
